@@ -29,5 +29,5 @@
 </ol>
 
 <h3>Contribuições</h3>
-<p>Se você gostaria de contribuir com o projeto, sinta-se livre para bifurcar (fork) o repositório e enviar uma solicitação de pull.</p>
+<p>Se tiver interesse em contribuir com o projeto, sinta-se livre para bifurcar (fork) o repositório e enviar uma solicitação de pull.</p>
 
